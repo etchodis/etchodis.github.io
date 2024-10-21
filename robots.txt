@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://etchodis.github.io/etchodis.txt.gz
+Sitemap: https://etchodis.github.io/app/etchodis.txt.gz
+Sitemap: https://etchodis.github.io/assets/etchodis.txt.gz
+Sitemap: https://etchodis.github.io/css/etchodis.txt.gz
+Sitemap: https://etchodis.github.io/includes/etchodis.txt.gz
+Sitemap: https://etchodis.github.io/item/etchodis.txt.gz
+Sitemap: https://etchodis.github.io/src/etchodis.txt.gz
